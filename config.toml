@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "ByteWise"
+title = "ByteWise Network Services"
 
 [module]
   [module.hugoVersion]
