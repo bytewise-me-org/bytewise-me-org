@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Multi-Vendor Professional Services",
+    "description": "",
+    "image": "images/features/ps.svg"
+  },
+  {
+    "title": "Project Lead and Implementation",
+    "description": "",
+    "image": "images/features/cli.svg"
+  },
+  {
+    "title": "Enterprise or Service Provider scale",
+    "description": "",
+    "image": "images/features/ent.svg"
+  }
+]
