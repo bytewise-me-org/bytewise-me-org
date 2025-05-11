@@ -11,5 +11,5 @@ _Dedicated experts for fulfilling any forthcoming increase in your IT services d
 \
 &nbsp;
 
-![Network Consulting](/images/illustrations/staffing.svg)
+![Network Consulting](/images/illustrations/staffing.png)
 # More coming soon, drop us a [line](mailto:info@byewise.me) to learn more 

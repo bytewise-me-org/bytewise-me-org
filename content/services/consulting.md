@@ -11,6 +11,6 @@ _Consulting services regarding any stage of your network's lifecycle, from plann
 \
 &nbsp;
 
-![Network Consulting](/images/illustrations/consulting.svg)
+![Network Consulting](/images/illustrations/consulting.png)
 
 # More coming soon, drop us a [line](mailto:info@byewise.me) to learn more 
