@@ -71,11 +71,6 @@ title = "ByteWise Network Services"
     url = "/choose/"
     weight = 2
 
-#  [[menu.main]]
-#    name = "Certifications"
-#    url = "/certs/"
-#    weight = 3
-
   [[menu.main]]
     name = "About"
     url = "/about/"
