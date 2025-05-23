@@ -12,5 +12,5 @@ _Whether it is a rollout follow-up training or a customer focused one, we delive
 &nbsp;
 \
 &nbsp;
-![Network Consulting](/images/illustrations/training.svg)
+![Network Consulting](/images/illustrations/training.png)
 # More coming soon, drop us a [line](mailto:info@byewise.me) to learn more 

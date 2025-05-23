@@ -6,9 +6,7 @@ featured: false
 weight: 4
 summary: "How secure and healthy is your network infrastructure? We gather information and analyse your network in order for you to be on track."
 ---
-
 _How secure and healthy is your network infrastructure? We gather information and analyse your network in order for you to be on track._
-\
-&nbsp;
-![Network Consulting](/images/illustrations/assessment.svg)
+
+![Network Consulting](/images/illustrations/assessment.png)
 # More coming soon, drop us a [line](mailto:info@byewise.me) to learn more 
